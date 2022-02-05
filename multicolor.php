@@ -22,7 +22,6 @@ function generate(){
 }
 
 generate();
- echo "aaaa";
  header("Refresh: 0; url=multicolor.php");
 
  
