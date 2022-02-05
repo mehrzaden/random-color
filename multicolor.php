@@ -12,7 +12,6 @@ function generate(){
             }
             echo "</table>" .PHP_EOL;
 
-            echo "test";
 
 
  
